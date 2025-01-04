@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Pacheco</h1>
+<h1 align="center">Hi 👋, I'm Ernesto Pacheco</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpachecob&label=Profile%20views&color=0e75b6&style=flat" alt="lpachecob" /> </p>
